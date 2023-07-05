@@ -1,3 +1,0 @@
-/home/wanghao/study_source/sec_home/CMakeFiles/rebuild_cache.dir
-/home/wanghao/study_source/sec_home/CMakeFiles/Demo.dir
-/home/wanghao/study_source/sec_home/CMakeFiles/edit_cache.dir
