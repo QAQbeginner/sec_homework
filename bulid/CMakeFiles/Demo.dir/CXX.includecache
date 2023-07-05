@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tool.h
+unistd.h
+-
+stdio.h
+-
+fcntl.h
+-
+string.h
+-
+iostream
+-
+readline/readline.h
+-
+readline/history.h
+-
+
+/home/wanghao/study_source/vs_te/main.cpp
+tool.h
+/home/wanghao/study_source/vs_te/tool.h
+
+/home/wanghao/study_source/vs_te/src/tool.cpp
+tool.h
+/home/wanghao/study_source/vs_te/src/tool.h
+
